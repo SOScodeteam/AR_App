@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="firefighters" size="500.000000 411.475403" />
+    <ImageTarget name="maj-struck" size="500.000000 405.192230" />
+    <ImageTarget name="knights_lt-col-jason-trew" size="5.000000 3.751914" />
+    <ImageTarget name="col-straw-pic" size="1.000000 1.285008" />
+  </Tracking>
+</QCARConfig>
